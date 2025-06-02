@@ -1,0 +1,20 @@
+/* Custom Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  #banner {
+    /* background: url('./assets/images/galaxy.gif') no-repeat center center; */
+    /* background-size: 400px; */
+    background-color: rgb(7, 3, 3);
+  }
+  
+  /* .timeline {
+    list-style: none;
+    padding: 0;
+  } */
+  
+  .timeline li {
+    margin-bottom: 20px;
+  }
+  
